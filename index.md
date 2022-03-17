@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Learning is a fun"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Learning is an art to learn something. Like we are doing right now.
